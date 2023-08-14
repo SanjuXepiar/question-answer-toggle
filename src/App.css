@@ -6,23 +6,20 @@ body {
 }
 .main {
   width: 80vw;
-  /* background: blue; */
   display: flex;
   justify-content: space-between;
 }
 section {
-  /* background: red; */
-  width: 65%;
+  width: 60%;
 }
 .main h2 {
-  text-indent: 30px;
+  text-indent: 20px;
   font-weight: bold;
   text-decoration: underline;
 }
 .content {
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   align-items: center;
   border: 2px blue solid;
   border-radius: 5px;
@@ -37,5 +34,4 @@ button {
   background: rgb(138, 110, 164);
   outline: 2px blue solid;
   outline-offset: -5px;
-  /* border-radius: ; */
 }
