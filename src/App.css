@@ -37,5 +37,5 @@ button {
   background: rgb(138, 110, 164);
   outline: 2px blue solid;
   outline-offset: -5px;
-  border-radius: 5px;
+  /* border-radius: ; */
 }
